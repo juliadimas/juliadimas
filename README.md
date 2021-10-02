@@ -1,5 +1,5 @@
 ### Olá, eu sou a Júlia!
-💻 Sou estudante de Engenharia de Software!
+💻 Estudante de Engenharia de Software!
 
 
 <div align="center">
