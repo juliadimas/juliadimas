@@ -1,5 +1,8 @@
 ### Olá, eu sou a Júlia!
 💻 Estudante de Engenharia de Software!
+Analista de Sistemas PowerBuilder.
+Voltando a aprender PHP e JavaScript.
+<a href="https://www.linkedin.com/in/juliad-marques/" target="_blank">Me encontre no meu linkedIn</a>
 
 
 <div align="center">
