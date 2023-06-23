@@ -7,6 +7,7 @@ Voltando a aprender PHP e JavaScript.
 </br>
 
 [![GitHubStatus](https://github-readme-stats.vercel.app/api?username=juliadimas&show_icons=true&layout=compact&theme=radical)](https://github.com/juliadimas)
+
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/top-langs/?username=juliadimas&layout=compact&langs_count=7&theme=radical)](https://github.com/juliadimas)
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliad-marques/)
