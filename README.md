@@ -1,12 +1,11 @@
-
-        ### Olá, eu sou a Júlia!
-        💻 Estudante de Engenharia de Software!
-        </br>
-        Analista de Sistemas PowerBuilder.
-        </br>
-        Voltando a aprender PHP e JavaScript.
-        </br>
-        <a href="https://www.linkedin.com/in/juliad-marques/" target="_blank">Me encontre no linkedIn</a>
+ ### Olá, eu sou a Júlia!
+💻 Estudante de Engenharia de Software!
+</br>
+Analista de Sistemas PowerBuilder.
+</br>
+Voltando a aprender PHP e JavaScript.
+</br>
+<a href="https://www.linkedin.com/in/juliad-marques/" target="_blank">Me encontre no linkedIn</a>
 
 
         <div align="center">
